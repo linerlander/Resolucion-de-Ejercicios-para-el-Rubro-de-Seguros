@@ -44,18 +44,4 @@
 
     - Este proyecto que desarolle se enfoca en una serie de **ejercicios prácticos** diseñados para abordar **situaciones clave** en el sector asegurador, considerando factores como la **edad del cliente** 👶👴, el **tipo de seguro contratado** 📄, la **prima anual** 💵, el **historial de reclamos** 📊, y otros criterios relevantes en la evaluación de riesgos y costos ⚖️.  
 
-- 📌 **`Finalidad de la Resolución de los Ejercicios`**  
-
-   - ✅ **Fortalecí la lógica de programación** con estructuras de control como `while`, `for`, `if-else`, `match-case`, y más. 
-
-   - ✅ **Modelé escenarios reales del sector seguros** aplicando `diccionarios` 📂, `listas` 📋, `sets` 🏷 y `tuplas` 📑. 
-
-   - ✅ **Optimizé cálculos y procesos** mediante `list comprehensions` 🔢 y funciones como `map()`, `filter()`.  
-
-   - ✅ **Simulé el cálculo de primas** 💵, la elegibilidad para seguros 🚦 y la gestión de reclamos ⚠️ con Python.  
-
-   - ✅ **Apliqué estructuras de decisión** para definir coberturas, beneficios y restricciones de pólizas 🏠🚗🏥.  
-
-    💡 **¡Estoy Prepárado para desarrollar habilidades clave en lógica aplicada al Sector de Seguros con Python!** 🚀  
-
 ---
