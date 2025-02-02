@@ -1,4 +1,4 @@
-# <p style="background-color:#0C0F14;font-family:Creepster,cursive;color:#ffffff;font-size:150%;text-align:center;border-radius:10px 10px;">🐍 Resolución de ejercicios para el rubro de Seguros🐍</p>
+# <p style="background-color:#0C0F14;font-family:Creepster,cursive;color:#ffffff;font-size:150%;text-align:center;border-radius:10px 10px;">🐍 Resolución de Ejercicios para el Rubro de Seguros🐍</p>
 ---
 
 [![Clase-05.png](https://i.postimg.cc/zBppXMB2/Clase-05.png)](https://postimg.cc/mzz7mm77)
